@@ -1,4 +1,4 @@
-# Sistema de Bases de Datos 1
+# Sistemas de Bases de Datos 1
 ## Estudiante
 | Nombre | Carnet | 
 | --- | --- |
